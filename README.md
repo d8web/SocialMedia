@@ -2,7 +2,7 @@
 
 <p>Fiz este projeto com a ajuda do curso de PHP da b7web, porém novamente fiz vária alterações no layout e algumas otimizações básicas em algumas querys sql e algumas funcionalidades do projeto.</p>
 
-<img src=""/>
+<img src="https://github.com/d8web/SocialMedia/blob/master/public/assets/images/Anima%C3%A7%C3%A3o.gif"/>
 
 ### Features
 
